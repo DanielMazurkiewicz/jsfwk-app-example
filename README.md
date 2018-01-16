@@ -1,19 +1,19 @@
 # jsfwk-app-example
 Example project for JS FWK framework. Can be used as base and patterns to develop new apps.
 
-###First install dependancies:
+### First install dependancies:
 ```shell
 npm install
 ```
 
-###Then build project:
+### Then build project:
 ```shell
 npm start
 ```
 
-###Or build minified project
+### Or build minified project
 ```shell
 npm run-script minify
 ```
 
-#####Results are available in "./bin" directory
+##### Results are available in "./bin" directory
