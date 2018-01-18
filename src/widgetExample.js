@@ -18,9 +18,9 @@ module.exports = (parent, parentNode) => {
   let counterElement, counter = 0;
 
   //Widget HTML/DOM code
-  let main = $('div', {$class: widgetStyle}, 
-    title = $('div', {$class: blueStyle}),
-    content = $('div', {$class: greenStyle}),
+  let main = $('div', {class: widgetStyle}, 
+    title = $('div', {class: blueStyle}),
+    content = $('div', {class: greenStyle}),
     $('text', 'Counter value:'), ' ', counterElement = $('text', counter), $('br'),
     btnPlusOne = $('button', '+1')
   );

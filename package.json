@@ -9,7 +9,7 @@
     "test": ""
   },
   "dependencies": {
-    "jsfwk": ">=0.9.9"
+    "jsfwk": ">=0.9.11"
   },
   "devDependencies": {
     "webpack": ">=3.10.0",
