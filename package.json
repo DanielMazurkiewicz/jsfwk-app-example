@@ -1,6 +1,6 @@
 {
   "name": "jsfwk-app-example",
-  "version": "0.9.9",
+  "version": "0.9.10",
   "description": "Example project for JS FWK framework. Can be used as base and patterns to develop new apps.",
   "main": "./src/index.js",
   "scripts": {
